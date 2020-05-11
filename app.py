@@ -1,1 +1,3 @@
-print ('Hola mundo')
+import turtle
+t=turtle.Turtle
+input()
